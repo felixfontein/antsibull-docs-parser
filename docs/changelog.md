@@ -1,9 +1,22 @@
 # antsibull\-docs\-parser \-\- Python library for processing Ansible documentation markup Release Notes
 
+<a id="v1-2-3"></a>
+## v1\.2\.3
+
+<a id="release-summary"></a>
+### Release Summary
+
+Maintenance release\.
+
+<a id="minor-changes"></a>
+### Minor Changes
+
+* Declare support for Python 3\.14 \([https\://github\.com/ansible\-community/antsibull\-docs\-parser/pull/75](https\://github\.com/ansible\-community/antsibull\-docs\-parser/pull/75)\)\.
+
 <a id="v1-2-2"></a>
 ## v1\.2\.2
 
-<a id="release-summary"></a>
+<a id="release-summary-1"></a>
 ### Release Summary
 
 Bugfix release\.
@@ -16,7 +29,7 @@ Bugfix release\.
 <a id="v1-2-1"></a>
 ## v1\.2\.1
 
-<a id="release-summary-1"></a>
+<a id="release-summary-2"></a>
 ### Release Summary
 
 Bugfix release\.
@@ -29,7 +42,7 @@ Bugfix release\.
 <a id="v1-2-0"></a>
 ## v1\.2\.0
 
-<a id="release-summary-2"></a>
+<a id="release-summary-3"></a>
 ### Release Summary
 
 Maintenance release that drops support for older Python releases\.
@@ -42,12 +55,12 @@ Maintenance release that drops support for older Python releases\.
 <a id="v1-1-1"></a>
 ## v1\.1\.1
 
-<a id="release-summary-3"></a>
+<a id="release-summary-4"></a>
 ### Release Summary
 
 Bugfix release\.
 
-<a id="minor-changes"></a>
+<a id="minor-changes-1"></a>
 ### Minor Changes
 
 * Declare support for Python 3\.13 \([https\://github\.com/ansible\-community/antsibull\-docs\-parser/pull/59](https\://github\.com/ansible\-community/antsibull\-docs\-parser/pull/59)\)\.
@@ -60,12 +73,12 @@ Bugfix release\.
 <a id="v1-1-0"></a>
 ## v1\.1\.0
 
-<a id="release-summary-4"></a>
+<a id="release-summary-5"></a>
 ### Release Summary
 
 Bugfix and feature release that improves markup parsing and generation with respect to whitespace handling and escaping\.
 
-<a id="minor-changes-1"></a>
+<a id="minor-changes-2"></a>
 ### Minor Changes
 
 * Allow to determine how to handle whitespace during parsing with the new <code>whitespace</code> option \([https\://github\.com/ansible\-community/antsibull\-docs\-parser/pull/54](https\://github\.com/ansible\-community/antsibull\-docs\-parser/pull/54)\)\.
@@ -82,7 +95,7 @@ Bugfix and feature release that improves markup parsing and generation with resp
 <a id="v1-0-2"></a>
 ## v1\.0\.2
 
-<a id="release-summary-5"></a>
+<a id="release-summary-6"></a>
 ### Release Summary
 
 Bugfix release\.
@@ -95,12 +108,12 @@ Bugfix release\.
 <a id="v1-0-1"></a>
 ## v1\.0\.1
 
-<a id="release-summary-6"></a>
+<a id="release-summary-7"></a>
 ### Release Summary
 
 Maintenance release\.
 
-<a id="minor-changes-2"></a>
+<a id="minor-changes-3"></a>
 ### Minor Changes
 
 * Declare support for Python 3\.12 \([https\://github\.com/ansible\-community/antsibull\-docs\-parser/pull/45](https\://github\.com/ansible\-community/antsibull\-docs\-parser/pull/45)\)\.
@@ -113,7 +126,7 @@ Maintenance release\.
 <a id="v1-0-0"></a>
 ## v1\.0\.0
 
-<a id="release-summary-7"></a>
+<a id="release-summary-8"></a>
 ### Release Summary
 
 First stable release\. This package is using semantic versioning\, so there will be no more breaking changes until the release of 2\.0\.0\.
@@ -121,12 +134,12 @@ First stable release\. This package is using semantic versioning\, so there will
 <a id="v0-4-0"></a>
 ## v0\.4\.0
 
-<a id="release-summary-8"></a>
+<a id="release-summary-9"></a>
 ### Release Summary
 
 Feature and bugfix release\.
 
-<a id="minor-changes-3"></a>
+<a id="minor-changes-4"></a>
 ### Minor Changes
 
 * Adjust URL escaping to be more similar to JavaScript\'s <code>encodeURI\(\)</code> \([https\://github\.com/ansible\-community/antsibull\-docs\-parser/pull/24](https\://github\.com/ansible\-community/antsibull\-docs\-parser/pull/24)\)\.
@@ -140,12 +153,12 @@ Feature and bugfix release\.
 <a id="v0-3-0"></a>
 ## v0\.3\.0
 
-<a id="release-summary-9"></a>
+<a id="release-summary-10"></a>
 ### Release Summary
 
 Feature release\.
 
-<a id="minor-changes-4"></a>
+<a id="minor-changes-5"></a>
 ### Minor Changes
 
 * Add support for plain RST rendering \([https\://github\.com/ansible\-community/antsibull\-docs\-parser/pull/20](https\://github\.com/ansible\-community/antsibull\-docs\-parser/pull/20)\)\.
@@ -153,12 +166,12 @@ Feature release\.
 <a id="v0-2-0"></a>
 ## v0\.2\.0
 
-<a id="release-summary-10"></a>
+<a id="release-summary-11"></a>
 ### Release Summary
 
 New major release that increases compatibility with the [TypeScript code in antsibull\-docs\-ts](https\://github\.com/ansible\-community/antsibull\-docs\-ts)\.
 
-<a id="minor-changes-5"></a>
+<a id="minor-changes-6"></a>
 ### Minor Changes
 
 * Add strict mode for parsing \([https\://github\.com/ansible\-community/antsibull\-docs\-parser/pull/15](https\://github\.com/ansible\-community/antsibull\-docs\-parser/pull/15)\)\.
@@ -180,7 +193,7 @@ New major release that increases compatibility with the [TypeScript code in ants
 <a id="v0-0-1"></a>
 ## v0\.0\.1
 
-<a id="release-summary-11"></a>
+<a id="release-summary-12"></a>
 ### Release Summary
 
 Initial experimental release\.
